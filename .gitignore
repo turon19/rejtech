@@ -1,6 +1,3 @@
-admin/includes/config.php
-user/includes/config.php
-
 .env
 
 *.log
